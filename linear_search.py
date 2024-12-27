@@ -7,7 +7,7 @@ def linear_search(arr,x):
 
 
 arr = [11,12,22,32,13,42,35,67,88,33]
-x = 22
+x = 32
 
 result = linear_search(arr,x)
 
